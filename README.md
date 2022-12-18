@@ -25,15 +25,16 @@ There are 3 modes:
 2. 
 
 
-## Some useful code I've used:
-### 1. Conversion to Binary
+## Some useful code to remember:
+
+#### 1. Conversion to Binary
 <pre>
-  var num: Int </br>
-  var binary - String(num,radix:2) 
+  var num: Int = 4 </br>
+  var binary = String(num,radix:2) // 110
 </pre>
 
-### 2. Filtering string for certain characters
+#### 2. Filtering string for certain characters
 <pre>
   var str: String = "adsjbaaberwjfb" <br>
-  str.filter{"ab".contains($0)}
+  str.filter{"ab".contains($0)} // abaabb
 </pre>
