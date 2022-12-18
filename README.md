@@ -17,7 +17,8 @@ There are 3 modes:
 
 ### 2. Shortest
 1. Fish&Chump
-2.
+2. Collatz Conjecture
+3. Binary - Odius or not
 
 ### 3. Reverse Mode - Guess the task by seeing the testcases & output
 1. Add Digits with Num
