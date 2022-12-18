@@ -23,3 +23,17 @@ There are 3 modes:
 ### 3. Reverse Mode - Guess the task by seeing the testcases & output
 1. Add Digits with Num
 2. 
+
+
+## Some useful code I've used:
+### 1. Conversion to Binary
+<pre>
+  var num: Int </br>
+  var binary - String(num,radix:2) 
+</pre>
+
+### 2. Filtering string for certain characters
+<pre>
+  var str: String = "adsjbaaberwjfb" <br>
+  str.filter{"ab".contains($0)}
+</pre>
