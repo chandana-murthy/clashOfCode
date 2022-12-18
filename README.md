@@ -30,7 +30,7 @@ There are 3 modes:
 #### 1. Conversion to Binary
 <pre>
   var num: Int = 4 </br>
-  var binary = String(num,radix:2) // 110
+  var binary = String(num,radix:2) // 100
 </pre>
 
 #### 2. Filtering string for certain characters
