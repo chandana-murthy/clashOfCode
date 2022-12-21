@@ -40,3 +40,10 @@ There are 3 modes:
   var str: String = "adsjbaaberwjfb" <br>
   str.filter{"ab".contains($0)} // abaabb
 </pre>
+
+#### 3. dictionary - get key for a certain value
+<pre>
+  var dict = ["one": 1, "two": 2...] <br>
+  let elements = dict.filter {$0.value == searchValue} <br>
+  print(elements.keys.first)
+</pre>
