@@ -47,3 +47,9 @@ There are 3 modes:
   let elements = dict.filter {$0.value == searchValue} <br>
   print(elements.keys.first)
 </pre>
+
+#### 4. Hex to Decimal
+<pre>
+  let hex = "ff" <br>
+  Int(hex, radix: 16)!
+</pre>
