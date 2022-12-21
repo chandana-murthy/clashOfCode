@@ -14,11 +14,13 @@ There are 3 modes:
 1. Ascii <-> Non-ascii
 2. Ostrich weights
 3. Uno Discard Pile
+4. Grasshoper & Ants
 
 ### 2. Shortest
 1. Fish&Chump
 2. Collatz Conjecture
 3. Binary - Odius or not
+4. Birthday Day
 
 ### 3. Reverse Mode - Guess the task by seeing the testcases & output
 1. Add Digits with Num
