@@ -15,16 +15,20 @@ There are 3 modes:
 2. Ostrich weights
 3. Uno Discard Pile
 4. Grasshoper & Ants
+5. Fruit Types
+6. String Prefix
 
 ### 2. Shortest
 1. Fish&Chump
 2. Collatz Conjecture
 3. Binary - Odius or not
 4. Birthday Day
+5. Frog Jumps
 
 ### 3. Reverse Mode - Guess the task by seeing the testcases & output
 1. Add Digits with Num
-2. 
+2. Add ^ Divide
+3. Powers
 
 
 ## Some useful code to remember:
@@ -52,4 +56,10 @@ There are 3 modes:
 <pre>
   let hex = "ff" <br>
   Int(hex, radix: 16)!
+</pre>
+
+#### 5. Get first n characters of a string
+<pre>
+  let str = "hello"
+  str.prefix(2) // "he"
 </pre>
